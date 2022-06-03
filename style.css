@@ -96,6 +96,7 @@ header .container .logo{
 #email{
     border-radius: 20px 0 0 20px;
     padding: 10px;
+    width:60%;
     outline: none;
     border: black 1px solid;
 }
