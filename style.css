@@ -95,7 +95,7 @@ header .container .logo{
 
 #email{
     border-radius: 20px 0 0 20px;
-    padding: 10px;
+    padding: 5%;
     width:60%;
     outline: none;
     border: black 1px solid;
@@ -107,7 +107,7 @@ header .container .logo{
     background-color: black;
     border: black 1px solid;
     position: relative;
-    padding: 10px;
+    padding: 5%;
     color: white;
     font-family: 'Poppins', sans-serif;
     left: -5%;
@@ -171,7 +171,7 @@ br{
 
     #email{
         width: 90%;
-        margin-left: -20%;
+        margin-left: -25%;
     }
 
     br{
