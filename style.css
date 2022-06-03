@@ -111,6 +111,7 @@ header .container .logo{
     color: white;
     font-family: 'Poppins', sans-serif;
     left: -5%;
+    cursor: pointer;
 }
 
 br{
@@ -166,6 +167,11 @@ br{
     .text-container p{
         white-space: nowrap;
         text-align: left;
+    }
+
+    #email{
+        width: 90%;
+        margin-left: -20%;
     }
 
     br{
